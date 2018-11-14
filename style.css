@@ -4,15 +4,19 @@ body {
   margin: 0;
 }
 
-
+/* === Styles for h1 and nav === */
 h1 , nav {
 text-align:center;
 }
+/* === Styles for h1 and nav end === */
 
+/* === Styles for image === */
 img {
    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     }
+/* === Styles for image end === */
 
+nav

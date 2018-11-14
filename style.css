@@ -20,7 +20,7 @@ img {
 /* === Styles for image end === */
 
 /* === Styles for nav elements === */
-nav.a {
+a {
   padding:10px;
   background: grey;
 }

@@ -44,7 +44,7 @@ figcaption {
  #details ,div {
    display:block;
    float: left;
-   background: grey;
+   background: red;
    width:25%;
  }
  /* === Styles for details section === */

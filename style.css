@@ -34,7 +34,7 @@ figcaption {
 /* === Styles for image caption end === */
 
 /* === Styles for text block === */
- #featured-property , p {
+ #featured-property p {
    text-align:center;
    width: 800px;
  }

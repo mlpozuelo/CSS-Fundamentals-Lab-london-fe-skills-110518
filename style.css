@@ -29,6 +29,6 @@ a {
 /* === Styles for image caption === */
 
 figcaption {
-  : 10px;
+  font-size: 10px;
   text-align: center;
 }

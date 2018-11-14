@@ -33,6 +33,9 @@ figcaption {
 }
 /* === Styles for image caption end === */
 
- p#featured-property {
-  
-}
+ #featured-property , p {
+   text-align:center;
+   width: 800px;
+ }
+ 
+ 

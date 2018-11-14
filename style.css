@@ -3,3 +3,53 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* === Styles for h1 and nav === */
+h1 , nav {
+text-align:center;
+}
+/* === Styles for h1 and nav end === */
+
+/* === Styles for image === */
+img {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+/* === Styles for image end === */
+
+/* === Styles for nav elements === */
+#navigation a {
+  padding:10px;
+  background: grey;
+}
+/* === Styles for nav elements end === */
+
+/* === Styles for image caption === */
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+/* === Styles for image caption end === */
+
+/* === Styles for text block === */
+ #featured-property p {
+   text-align:center;
+   width: 800px;
+   margin: auto;
+    
+ }
+ /* === Styles for text block end === */
+ 
+ /* === Styles for details section === */
+ #details div {
+   display:block;
+   float: left;
+   text-align: center;
+   background: red;
+   width:25%;
+ }
+ /* === Styles for details section === */
+ 
+ 

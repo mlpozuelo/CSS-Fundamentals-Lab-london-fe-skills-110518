@@ -19,4 +19,6 @@ img {
     }
 /* === Styles for image end === */
 
-nav
+a {
+  padding:10px;
+}

@@ -19,6 +19,10 @@ img {
     }
 /* === Styles for image end === */
 
+/* === Styles for nav elements === */
 a {
   padding:10px;
+  background: grey;
 }
+/* === Styles for nav elements end === */
+

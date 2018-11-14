@@ -41,6 +41,9 @@ figcaption {
  /* === Styles for text block end === */
  
  /* === Styles for details section === */
- 
+ #details ,div {
+   display:block;
+   float: left;
+ }
  
  

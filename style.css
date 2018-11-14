@@ -44,6 +44,9 @@ figcaption {
  #details ,div {
    display:block;
    float: left;
+   background: grey;
+   width:25%;
+   
  }
  
  
